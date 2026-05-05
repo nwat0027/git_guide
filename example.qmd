@@ -1,0 +1,7 @@
+---
+title: "Git Guide Example"
+format: html
+editor: visual
+---
+
+This is the initial version of my document.
